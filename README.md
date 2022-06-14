@@ -10,7 +10,7 @@
 
 <div align='center'>
   
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandrewi&count_private=true&show_icons=true&theme=blue-green)](https://github.com/bandrewi/github-readme-stats)&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandrewi&theme=blue-green&layout=compact)](https://github.com/bandrewi/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandrewi&count_private=true&show_icons=true&theme=blue-green)](https://github.com/bandrewi/github-readme-stats)&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandrewi&theme=blue-green&layout=compact)](https://github.com/bandrewi/github-readme-stats)
  
 </div>
 
