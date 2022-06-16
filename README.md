@@ -35,7 +35,18 @@
 <!--    <img src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png" style="width:50px;" /> -->
 </div>
 
+&nbsp;
 
+# Socials
+<div>
+ 
+ <a href='https://www.linkedin.com/in/andrew-bui-26b718237/' target='_blank'>
+  <img src='https://i.imgur.com/hLlhx14.png' style="width:50px;"/>
+
+ <a href='https://angel.co/u/andrew-bui-11' target='_blank'>
+ <img src='https://www.svgimages.com/svg-image/s7/angellist-logo-256x256.png' style="width:50px;"/>
+  
+</div>
 <!--
 **bandrewi/bandrewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
