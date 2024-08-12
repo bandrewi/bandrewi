@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/92858393/173470111-969bc071-d0f9-40a5-bb0d-04b478bbbde4.png)
  
- I graduated from App Academy's online software engineering program and am open to future jobs and opportunities. 
+ I graduated from App Academy's online software engineering program and I am open to future jobs and opportunities. 
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I worked as a bus driver while attending college
