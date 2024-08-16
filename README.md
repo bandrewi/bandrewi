@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/92858393/173470111-969bc071-d0f9-40a5-bb0d-04b478bbbde4.png)
  
- I graduated from App Academy's online software engineering program and I am looking for future jobs and opportunities. I am excited to apply the knowledge I've gained in a software engineering role.
+ I graduated from App Academy's online software engineering program and I am looking for future jobs and opportunities. I am excited to apply the knowledge I've gained in a software engineering role. 
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I worked as a bus driver while attending college
@@ -55,5 +55,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 -->
